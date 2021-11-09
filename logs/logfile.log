@@ -1,0 +1,3 @@
+2021-11-09 11:28:27  TRACE com.library.Driver:16 Started main method
+2021-11-09 11:28:27  TRACE com.library.controllers.Controller:13 Started Init method
+2021-11-09 11:28:43  TRACE com.library.Driver:19 Ended main method
