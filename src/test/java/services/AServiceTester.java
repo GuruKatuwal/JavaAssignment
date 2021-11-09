@@ -1,7 +1,6 @@
 package services;
 
 import static org.junit.Assert.assertNull;
-import static org.junit.Assert.assertThrows;
 
 import org.junit.After;
 import org.junit.AfterClass;
