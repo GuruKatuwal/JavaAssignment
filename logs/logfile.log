@@ -5,3 +5,5 @@
 2021-11-09 15:45:30  TRACE com.library.controllers.Controller:13 Started Init method
 2021-11-09 16:04:13  TRACE com.library.Driver:16 Started main method
 2021-11-09 16:04:13  TRACE com.library.controllers.Controller:15 Started Init method
+2021-11-09 16:04:33  TRACE com.library.Driver:16 Started main method
+2021-11-09 16:04:33  TRACE com.library.controllers.Controller:15 Started Init method
